@@ -23,3 +23,4 @@ Total interest payments:  R$ 215,925.77
 Total payments:           R$ 315,925.77
 Interest to principal:           215.9 %
 Years to pay:                     30.0
+.
