@@ -3,7 +3,7 @@ Calculadora Juros Compostos
 
 INPUT:
 Qual o valor a emprestar: 100000
-Qual a taxa de juros anual: 10
+Qual a taxa de juros anual: 10<br>
 Qual o prazo: 30
 
 OUTPUT:
