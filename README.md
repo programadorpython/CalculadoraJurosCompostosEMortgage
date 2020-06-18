@@ -9,6 +9,7 @@ Qual o prazo: 30
 OUTPUT:
 O montante total calculado é de R$ 1.744.940,23.
 
+
 Usando módulo Mortgage, classe Loan
 Original Balance:         R$    100,000
 Interest Rate:                     0.1 %
